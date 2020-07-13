@@ -1,0 +1,21 @@
+.nav-bar {
+    overflow: hidden;
+    background-color: aqua;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+    .nav-bar > .left-link {
+        display: block;
+        margin-top: 30px;
+        margin-left: 30px;
+        float: left;
+    }
+    .nav-bar > .link {
+        display: block;
+        float: right;
+        margin-top: 30px;
+        margin-right: 40px;
+        text-decoration: none;
+    }
+    
